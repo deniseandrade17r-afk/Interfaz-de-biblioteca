@@ -1,22 +1,23 @@
 # Interfaz-de-biblioteca
 Interfaz de biblioteca en línea
 Realizado por:
-Sanchez Valenzuela Natalia Guadalupe
-Rodriguez Andrade Denise Abigail
+Sánchez Valenzuela Natalia Guadalupe
+Rodríguez Andrade Denise Abigail
 
-En esta interfaz para una biblioteca para telefonos añadimos opciónes indispensables y todas las opciónes que se pueden presentar al momento de realizar cualquier acción, ya sea de advertencia, de errores o simplemente la siguiente acción natural.
-La interfaz contiene: 
-- El inicio de sesión
-- Crear cuentas nuevas
+En esta interfaz de biblioteca para teléfonos añadimos opciones indispensables y todas las pantallas o estados que se pueden presentar al momento de realizar cualquier acción: ya sea de advertencia, de error o simplemente la siguiente acción natural.
+
+La interfaz contiene:
+- Inicio de sesión
+- Creación de cuentas nuevas
 - Sesión sin conexión a internet
-- Aviso de errores
-- Aviso de carga
-- Avisos de procesos guradados
-- sugerencias y avisos sobre contraseña mala
-- Recuperar contraseña
-- Y por ultimo, como se ve la barra de busqueda cuando por fin inicias sesión
+- Avisos de error
+- Indicadores de carga
+- Avisos de procesos guardados
+- Sugerencias y advertencias sobre contraseñas no seguras
+- Recuperación de contraseña
+- Vista de la barra de búsqueda una vez iniciada la sesión
 
-  Imagenes:
+  Imágenes:
   
   <img width="133" height="276" alt="image" src="https://github.com/user-attachments/assets/985d34e1-534e-4d0b-aab1-4df0abe932f4" />
   <img width="136" height="272" alt="image" src="https://github.com/user-attachments/assets/d3c43ddd-36c0-4080-afa5-eba8650b822c" />
