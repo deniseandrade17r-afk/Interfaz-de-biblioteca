@@ -2,8 +2,8 @@
 Interfaz de biblioteca en línea
 
 Realizado por:
-Sánchez Valenzuela Natalia Guadalupe
-Rodriguez Andrade Denise Abigail
+- Sánchez Valenzuela Natalia Guadalupe
+- Rodriguez Andrade Denise Abigail
 
 En esta interfaz de biblioteca para teléfonos añadimos opciones indispensables y todas las pantallas o estados que se pueden presentar al momento de realizar cualquier acción: ya sea de advertencia, de error o simplemente la siguiente acción natural.
 
